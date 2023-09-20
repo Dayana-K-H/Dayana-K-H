@@ -1,7 +1,16 @@
-👋 Hi, I’m @Dayana-K-H <br>
+<h3>👋 Hi, I’m @Dayana-K-H <h3></h3> <br>
 Saya seorang mahasiswa Sistem Informasi di Universitas Sriwijaya.<br>
 Saya memiliki sertifikat "Belajar Dasar Structured Query Language (SQL)" oleh dicoding.<br>
-Ini adalah sertifikatnya [Sertifikat Belajar SQL](https://www.dicoding.com/certificates/QLZ9RD50DP5D).
+Ini adalah sertifikatnya [Sertifikat Belajar SQL](https://www.dicoding.com/certificates/QLZ9RD50DP5D).<br>
+<br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Dayana-K-H">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dayana-K-H&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 <!---
 Dayana-K-H/Dayana-K-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
