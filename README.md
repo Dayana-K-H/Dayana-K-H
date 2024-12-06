@@ -1,7 +1,6 @@
 <h3>👋 Hi, I’m @Dayana-K-H <h3></h3> <br>
-Saya seorang mahasiswa Sistem Informasi di Universitas Sriwijaya.<br>
-Saya memiliki sertifikat "Belajar Dasar Structured Query Language (SQL)" oleh dicoding.<br>
-Ini adalah sertifikatnya [Sertifikat Belajar SQL](https://www.dicoding.com/certificates/QLZ9RD50DP5D).<br>
+I am a third-year student in Information Systems with a passion for creating innovative solutions through technology.<br>
+I am committed to continuous learning and personal growth, driven by a strong desire to leverage my expertise in Android development and UI/UX design. I look forward to contributing to meaningful projects within the tech industry.<br>
 <br>
   
 ### Github Statistic
